@@ -1,2 +1,2 @@
 # HotelManagementDatabase
-Hotel Database Management System for Database class
+An SQL project created to model a booking system database for a hotel company. The theoretical business's needs were analyzed for this project and converted into a series of business rules. These business rules were then used to create the Entity Relationship diagram. We utilized livesql.Oracle.com to write the SQL statements to generate the appropriate tables with applicable constraints. The tables were populated with random data and their validity were tested with a series of complex update statements, query scripts, and scripts that would intentionally cause errors.
